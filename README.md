@@ -1,3 +1,3 @@
 # IERA (Image Recognition and Restoration System)
 
-A Image Recognition and Restoration System project aim to optimze and enhance any image of any type at your fingertips.
+This is a desktop software that enhances and restores images. It’s like having a mini photo editing studio on your computer, offering a user-friendly interface for image enhancement.
